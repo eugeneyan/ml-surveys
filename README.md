@@ -19,7 +19,7 @@ It's hard to keep up with the latest and greatest in machine learning. Here's a 
 ## Recommendation
 - Algorithms: [Recommender systems survey](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
 - Algorithms: [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
-- Algorithms: [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)
+- Algorithms: [Are We Really Making Progress? A Worrying Analysis of Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)
 - Serendipity: [A Survey of Serendipity in Recommender Systems](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
 - Diversity: [Diversity in Recommender Systems – A survey](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
 - Explanations: [A Survey of Explanations in Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
@@ -31,7 +31,7 @@ It's hard to keep up with the latest and greatest in machine learning. Here's a 
 
 ## Natural Language Processing
 - Classification: [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705)
-- Generation: [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/view/11173/26378)
+- Generation: [Survey of the SOTA in Natural Language Generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/view/11173/26378)
 - Generation: [Neural Language Generation: Formulation, Methods, and Evaluation](https://arxiv.org/pdf/2007.15780.pdf)
 - Transfer learning: [Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) ([Paper](https://arxiv.org/abs/1910.10683))
 - Metrics: [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)
