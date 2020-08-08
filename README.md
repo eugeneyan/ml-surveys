@@ -4,7 +4,7 @@ It's hard to keep up with the latest and greatest in machine learning. Here's a 
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
-(P.S., Figuring out how to implement your ML project? **Learn how other organizations did it**: [`applied-ml`](https://github.com/eugeneyan/applied-ml))
+Figuring out how to implement your ML project? Learn how other organizations did it 👉[`applied-ml`](https://github.com/eugeneyan/applied-ml)
 
 **Table of Contents**
 
