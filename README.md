@@ -45,6 +45,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 ## Reinforcement Learning
 - Algorithms: [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
 - Transfer learning: [Transfer Learning for Reinforcement Learning Domains](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
+- Economics: [Review of Deep Reinforcement Learning Methods and Applications in Economics](https://arxiv.org/pdf/2004.01509.pdf)
 
 ## Embeddings
 - Graph: [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/pdf/1709.07604)
