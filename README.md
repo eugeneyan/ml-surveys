@@ -30,6 +30,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Transfer learning: [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974.pdf)
 
 ## Natural Language Processing
+- Deep Learning: [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
 - Classification: [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705)
 - Generation: [Survey of the SOTA in Natural Language Generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/view/11173/26378)
 - Generation: [Neural Language Generation: Formulation, Methods, and Evaluation](https://arxiv.org/pdf/2007.15780.pdf)
