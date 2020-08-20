@@ -27,6 +27,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 ## Deep Learning
 - Architecture: [A State-of-the-Art Survey on Deep Learning Theory and Architectures](https://www.mdpi.com/2079-9292/8/3/292/htm)
 - Knowledge distillation: [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
+- Model compression: [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/pdf/2008.05221.pdf)
 - Transfer learning: [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974.pdf)
 
 ## Natural Language Processing
