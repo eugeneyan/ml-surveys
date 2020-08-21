@@ -53,6 +53,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Graph: [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/pdf/1709.07604)
 - Text: [From Word to Sense Embeddings:A Survey on Vector Representations of Meaning](https://www.jair.org/index.php/jair/article/view/11259/26454)
 - Text: [Diachronic Word Embeddings and Semantic Shifts](https://arxiv.org/pdf/1806.03537.pdf)
+- Text: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069)
 
 ## Others
 - Transfer learning: [A Survey on Transfer Learning](http://202.120.39.19:40222/wp-content/uploads/2018/03/A-Survey-on-Transfer-Learning.pdf)
