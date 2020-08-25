@@ -14,6 +14,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Embeddings](#embeddings)
+- [Meta Learning and Few-shot Learning](#meta-learning-and-few-shot-learning)
 - [Others](#others)
 
 ## Recommendation
