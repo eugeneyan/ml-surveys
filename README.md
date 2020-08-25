@@ -55,6 +55,15 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Text: [Diachronic Word Embeddings and Semantic Shifts](https://arxiv.org/pdf/1806.03537.pdf)
 - Text: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069)
 
+## Meta Learning and Few-shot Learning
+- NLP: [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/abs/2007.09604)
+- Domain Agnostic: [Learning from Few Samples: A Survey](https://arxiv.org/abs/2007.15484)
+- NN: [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/abs/2004.05439)
+- Domain Agnostic: [A Comprehensive Overview and Survey of Recent Advances in Meta-Learning](https://arxiv.org/abs/2004.11149)
+- Domain Agnostic: [Baby steps towards few-shot learning with multiple semantics](https://arxiv.org/abs/1906.01905)
+- Domain Agnostic: [Meta-Learning: A Survey](https://arxiv.org/abs/1810.03548)
+- Domain Agnostic: [A Perspective View And Survey Of Meta-learning](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning)
+
 ## Others
 - Transfer learning: [A Survey on Transfer Learning](http://202.120.39.19:40222/wp-content/uploads/2018/03/A-Survey-on-Transfer-Learning.pdf)
 
