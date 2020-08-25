@@ -14,6 +14,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Embeddings](#embeddings)
+- [Meta-learning and Few-shot Learning](#meta-learning-and-few-shot-Learning)
 - [Others](#others)
 
 ## Recommendation
@@ -29,6 +30,8 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Knowledge distillation: [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
 - Model compression: [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/pdf/2008.05221.pdf)
 - Transfer learning: [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974.pdf)
+- Neural architecture search: [A Comprehensive Survey of Neural Architecture Search-- Challenges and Solutions](https://arxiv.org/abs/2006.02903)
+- Neural architecture search: [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377)
 
 ## Natural Language Processing
 - Deep Learning: [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
@@ -55,7 +58,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Text: [Diachronic Word Embeddings and Semantic Shifts](https://arxiv.org/pdf/1806.03537.pdf)
 - Text: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069)
 
-## Meta Learning and Few-shot Learning
+## Meta-learning and Few-shot Learning
 - NLP: [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/abs/2007.09604)
 - Domain Agnostic: [Learning from Few Samples: A Survey](https://arxiv.org/abs/2007.15484)
 - NN: [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/abs/2004.05439)
