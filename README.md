@@ -30,6 +30,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Knowledge distillation: [Knowledge Distillation: A Survey](https://arxiv.org/pdf/2006.05525.pdf)
 - Model compression: [Compression of Deep Learning Models for Text: A Survey](https://arxiv.org/pdf/2008.05221.pdf)
 - Transfer learning: [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974.pdf)
+- Graph: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
 
 ## Natural Language Processing
 - Deep Learning: [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
