@@ -58,7 +58,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Text: [From Word to Sense Embeddings:A Survey on Vector Representations of Meaning](https://www.jair.org/index.php/jair/article/view/11259/26454)
 - Text: [Diachronic Word Embeddings and Semantic Shifts](https://arxiv.org/pdf/1806.03537.pdf)
 - Text: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069)
-- Text: [A reproducible survey on word embeddings and ontology-based methods for word similarity: linear combinations outperform the state of the art] (https://doi.org/10.1016/j.engappai.2019.07.010)
+- Text: [A reproducible survey on word embeddings and ontology-based methods for word similarity: linear combinations outperform the state of the art](https://doi.org/10.1016/j.engappai.2019.07.010)
 
 ## Meta-learning and Few-shot Learning
 - NLP: [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/abs/2007.09604)
