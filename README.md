@@ -47,6 +47,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Object detection: [Object Detection in 20 Years](https://arxiv.org/pdf/1905.05055.pdf)
 - Adversarial attacks: [Threat of Adversarial Attacks on Deep Learning in Computer Vision](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
 - Autonomous vehicles: [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/pdf/1704.05519.pdf)
+- Image Captioning: [A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/pdf/1810.04020.pdf)
 
 ## Reinforcement Learning
 - Algorithms: [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
