@@ -39,7 +39,8 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Classification: [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705)
 - Generation: [Survey of the SOTA in Natural Language Generation: Core tasks, applications and evaluation](https://www.jair.org/index.php/jair/article/view/11173/26378)
 - Generation: [Neural Language Generation: Formulation, Methods, and Evaluation](https://arxiv.org/pdf/2007.15780.pdf)
-- Transfer learning: [Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) ([Paper](https://arxiv.org/abs/1910.10683))
+- Transfer learning: [Exploring Transfer Learning with T5: the Text-To-Text Transfer Transformer](https://arxiv.org/abs/1910.10683)
+- Transformers: [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
 - Metrics: [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://arxiv.org/pdf/2005.04118.pdf)
 - Metrics: [Evaluation of Text Generation: A Survey](https://arxiv.org/pdf/2006.14799.pdf)
 
