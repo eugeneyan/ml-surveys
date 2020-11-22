@@ -13,6 +13,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Graph](#graph)
 - [Embeddings](#embeddings)
 - [Meta-learning and Few-shot Learning](#meta-learning-and-few-shot-Learning)
 - [Others](#others)
@@ -32,8 +33,6 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Transfer learning: [A Survey on Deep Transfer Learning](https://arxiv.org/pdf/1808.01974.pdf)
 - Neural architecture search: [A Comprehensive Survey of Neural Architecture Search](https://arxiv.org/abs/2006.02903)
 - Neural architecture search: [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377)
-- Graph: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
-- Graph: [A Practical Guide to Graph Neural Networks](https://arxiv.org/pdf/2010.05234.pdf)
 
 ## Natural Language Processing
 - Deep Learning: [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
@@ -56,12 +55,17 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Transfer learning: [Transfer Learning for Reinforcement Learning Domains](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
 - Economics: [Review of Deep Reinforcement Learning Methods and Applications in Economics](https://arxiv.org/pdf/2004.01509.pdf)
 
+## Graph
+- Survey: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
+- Survey: [A Practical Guide to Graph Neural Networks](https://arxiv.org/pdf/2010.05234.pdf)
+- Fraud detection: [A systematic literature review of graph-based anomaly detection approaches](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
+
 ## Embeddings
-- Graph: [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/pdf/1709.07604)
 - Text: [From Word to Sense Embeddings:A Survey on Vector Representations of Meaning](https://www.jair.org/index.php/jair/article/view/11259/26454)
 - Text: [Diachronic Word Embeddings and Semantic Shifts](https://arxiv.org/pdf/1806.03537.pdf)
 - Text: [Word Embeddings: A Survey](https://arxiv.org/abs/1901.09069)
 - Text: [A Reproducible Survey on Word Embeddings and Ontology-based Methods for Word Similarity](https://doi.org/10.1016/j.engappai.2019.07.010)
+- Graph: [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/pdf/1709.07604)
 
 ## Meta-learning and Few-shot Learning
 - NLP: [Meta-learning for Few-shot Natural Language Processing: A Survey](https://arxiv.org/abs/2007.09604)
