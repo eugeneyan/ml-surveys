@@ -59,6 +59,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Survey: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)
 - Survey: [A Practical Guide to Graph Neural Networks](https://arxiv.org/pdf/2010.05234.pdf)
 - Fraud detection: [A systematic literature review of graph-based anomaly detection approaches](https://www.sciencedirect.com/science/article/pii/S0167923620300580)
+- Knowledge graphs: [A Comprehensive Introduction to Knowledge Graphs](https://arxiv.org/pdf/2003.02320.pdf)
 
 ## Embeddings
 - Text: [From Word to Sense Embeddings:A Survey on Vector Representations of Meaning](https://www.jair.org/index.php/jair/article/view/11259/26454)
