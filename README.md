@@ -12,6 +12,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Vision](#computer-vision)
+- [Vision and Language](#vision-and-language)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graph](#graph)
 - [Embeddings](#embeddings)
@@ -49,6 +50,11 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Adversarial attacks: [Threat of Adversarial Attacks on Deep Learning in Computer Vision](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
 - Autonomous vehicles: [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art](https://arxiv.org/pdf/1704.05519.pdf)
 - Image Captioning: [A Comprehensive Survey of Deep Learning for Image Captioning](https://arxiv.org/pdf/1810.04020.pdf)
+
+## Vision and Language
+
+- Trends in Vision and Language: [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods](https://arxiv.org/abs/1907.09358) 
+- Current and Emerging Trends: [Multimodal Research in Vision and Language: A Review of Current and Emerging Trends](https://arxiv.org/abs/2010.09522) 
 
 ## Reinforcement Learning
 - Algorithms: [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/pdf/1708.05866.pdf)
