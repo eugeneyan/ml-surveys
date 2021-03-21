@@ -20,12 +20,12 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Others](#others)
 
 ## Recommendation
-- Algorithms: [Recommender systems survey](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
-- Algorithms: [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
-- Algorithms: [Are We Really Making Progress? A Worrying Analysis of Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf)
-- Serendipity: [A Survey of Serendipity in Recommender Systems](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
-- Diversity: [Diversity in Recommender Systems – A survey](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
-- Explanations: [A Survey of Explanations in Recommender Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
+- Algorithms: [Recommender systems survey (2016)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+- Algorithms: [Deep Learning based Recommender System: A Survey and New Perspectives (2019)](https://arxiv.org/pdf/1707.07435.pdf)
+- Algorithms: [Are We Really Making Progress? A Worrying Analysis of Neural Recommendation Approaches (2019)](https://arxiv.org/pdf/1907.06902.pdf)
+- Serendipity: [A Survey of Serendipity in Recommender Systems (2016)](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
+- Diversity: [Diversity in Recommender Systems – A survey (2017)](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
+- Explanations: [A Survey of Explanations in Recommender Systems (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
 
 ## Deep Learning
 - Architecture: [A State-of-the-Art Survey on Deep Learning Theory and Architectures](https://www.mdpi.com/2079-9292/8/3/292/htm)
