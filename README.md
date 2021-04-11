@@ -22,7 +22,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 ## Recommendation
 - Algorithms: [Recommender systems survey (2016)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
 - Algorithms: [Deep Learning based Recommender System: A Survey and New Perspectives (2019)](https://arxiv.org/pdf/1707.07435.pdf)
-- Algorithms: [Are We Really Making Progress? A Worrying Analysis of Neural Recommendation Approaches (2019)](https://arxiv.org/pdf/1907.06902.pdf)
+- Algorithms: [Are We Really Making Progress? An Analysis of Neural Recommendation Approaches (2019)](https://arxiv.org/pdf/1907.06902.pdf)
 - Serendipity: [A Survey of Serendipity in Recommender Systems (2016)](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
 - Diversity: [Diversity in Recommender Systems – A survey (2017)](https://papers-gamma.link/static/memory/pdfs/153-Kunaver_Diversity_in_Recommender_Systems_2017.pdf)
 - Explanations: [A Survey of Explanations in Recommender Systems (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.418.9237&rep=rep1&type=pdf)
@@ -48,18 +48,19 @@ Figuring out how to implement your ML project? Learn how other organizations did
 ## Computer Vision
 - Object detection: [Object Detection in 20 Years (2019)](https://arxiv.org/pdf/1905.05055.pdf)
 - Adversarial attacks: [Threat of Adversarial Attacks on Deep Learning in Computer Vision (2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
-- Autonomous vehicles: [Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art (2021)](https://arxiv.org/pdf/1704.05519.pdf)
+- Autonomous vehicles: [Computer Vision for Autonomous Vehicles: Problems, Datasets and SOTA (2021)](https://arxiv.org/pdf/1704.05519.pdf)
 - Image Captioning: [A Comprehensive Survey of Deep Learning for Image Captioning (2018)](https://arxiv.org/pdf/1810.04020.pdf)
 
 ## Vision and Language
 
-- Trends in Vision and Language: [Trends in Integration of Vision and Language Research: A Survey of Tasks, Datasets, and Methods (2020)](https://arxiv.org/abs/1907.09358) 
-- Current and Emerging Trends: [Multimodal Research in Vision and Language: A Review of Current and Emerging Trends (2020)](https://arxiv.org/abs/2010.09522) 
+- Trends: [Trends in Integration of Vision and Language Research: Tasks, Datasets, and Methods (2020)](https://arxiv.org/abs/1907.09358) 
+- Trends: [Multimodal Research in Vision and Language: Current and Emerging Trends (2020)](https://arxiv.org/abs/2010.09522) 
 
 ## Reinforcement Learning
 - Algorithms: [A Brief Survey of Deep Reinforcement Learning (2017)](https://arxiv.org/pdf/1708.05866.pdf)
 - Transfer learning: [Transfer Learning for Reinforcement Learning Domains (2009)](http://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf)
 - Economics: [Review of Deep Reinforcement Learning Methods and Applications in Economics (2020)](https://arxiv.org/pdf/2004.01509.pdf)
+- Discovery: [Deep Reinforcement Learning for Search, Recommendation, and Online Advertising (2018)](https://arxiv.org/pdf/1812.07127.pdf)
 
 ## Graph
 - Survey: [A Comprehensive Survey on Graph Neural Networks (2019)](https://arxiv.org/pdf/1901.00596.pdf)
@@ -84,4 +85,4 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Domain Agnostic: [A Perspective View And Survey Of Meta-learning (2002)](https://www.researchgate.net/publication/2375370_A_Perspective_View_And_Survey_Of_Meta-Learning)
 
 ## Others
-- Transfer learning: [A Survey on Transfer Learning](http://202.120.39.19:40222/wp-content/uploads/2018/03/A-Survey-on-Transfer-Learning.pdf)
+- Transfer learning: [A Survey on Transfer Learning (2009)](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
