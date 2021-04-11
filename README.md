@@ -79,4 +79,3 @@ Figuring out how to implement your ML project? Learn how other organizations did
 
 ## Others
 - Transfer learning: [A Survey on Transfer Learning](http://202.120.39.19:40222/wp-content/uploads/2018/03/A-Survey-on-Transfer-Learning.pdf)
-
