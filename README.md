@@ -20,7 +20,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - [Others](#others)
 
 ## Recommendation
-- Algorithms: [Recommender systems survey (2016)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
+- Algorithms: [Recommender systems survey (2013)](http://irntez.ir/wp-content/uploads/2016/12/sciencedirec.pdf)
 - Algorithms: [Deep Learning based Recommender System: A Survey and New Perspectives (2019)](https://arxiv.org/pdf/1707.07435.pdf)
 - Algorithms: [Are We Really Making Progress? An Analysis of Neural Recommendation Approaches (2019)](https://arxiv.org/pdf/1907.06902.pdf)
 - Serendipity: [A Survey of Serendipity in Recommender Systems (2016)](https://www.researchgate.net/publication/306075233_A_Survey_of_Serendipity_in_Recommender_Systems)
