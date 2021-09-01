@@ -53,7 +53,7 @@ Figuring out how to implement your ML project? Learn how other organizations did
 
 ## Vision and Language
 
-- Trends: [Trends in Integration of Vision and Language Research: Tasks, Datasets, and Methods (2020)](https://arxiv.org/abs/1907.09358) 
+- Trends: [Trends in Integration of Vision and Language Research: Tasks, Datasets, and Methods (2021)](https://doi.org/10.1613/jair.1.11688) 
 - Trends: [Multimodal Research in Vision and Language: Current and Emerging Trends (2020)](https://arxiv.org/abs/2010.09522) 
 
 ## Reinforcement Learning
