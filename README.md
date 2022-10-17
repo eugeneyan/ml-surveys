@@ -50,6 +50,10 @@ Figuring out how to implement your ML project? Learn how other organizations did
 - Adversarial attacks: [Threat of Adversarial Attacks on Deep Learning in Computer Vision (2018)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
 - Autonomous vehicles: [Computer Vision for Autonomous Vehicles: Problems, Datasets and SOTA (2021)](https://arxiv.org/pdf/1704.05519.pdf)
 - Image Captioning: [A Comprehensive Survey of Deep Learning for Image Captioning (2018)](https://arxiv.org/pdf/1810.04020.pdf)
+- Instance Segmentation: [A Survey on Instance Segmentation: State of the art](https://arxiv.org/abs/2007.00047)
+- Vision Transformer: [A Survey on Vision Transformer](https://arxiv.org/abs/2012.12556)
+- Architectures: [Review of deep learning: concepts, CNN architectures, challenges, applications, future directions](https://link.springer.com/article/10.1186/s40537-021-00444-8)
+- Transformers: [Transformers in Vision: A Survey](https://arxiv.org/abs/2101.01169)
 
 ## Vision and Language
 
