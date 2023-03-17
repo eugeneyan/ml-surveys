@@ -90,3 +90,4 @@ Figuring out how to implement your ML project? Learn how other organizations did
 
 ## Others
 - Transfer learning: [A Survey on Transfer Learning (2009)](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+- Lion Optimizer: [Symbolic Discovery of Optimization Algorithms (2023)](https://arxiv.org/abs/2302.06675)
